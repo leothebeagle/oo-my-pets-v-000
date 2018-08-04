@@ -6,7 +6,12 @@ class Owner
     @@all
   end
 
+  def self.count
+    @@all.count
+  end
+
+
   def initialize
-    @@all << self 
+    @@all << self
   end
 end
