@@ -55,6 +55,7 @@ class Owner
       array.each do |pet|
         pet.mood = "nervous"
       end
+      array = []
     end
 
   end
