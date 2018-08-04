@@ -32,5 +32,5 @@ class Owner
 
 
 
-  
+
 end
