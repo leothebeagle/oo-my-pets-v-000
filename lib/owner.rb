@@ -57,7 +57,10 @@ class Owner
       end
     array.clear
     end
+  end
 
+  def list_pets
+    
   end
 
 
