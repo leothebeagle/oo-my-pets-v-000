@@ -6,4 +6,7 @@ class Owner
     @@all
   end
 
+  def initialize
+    @@all << self 
+  end
 end
